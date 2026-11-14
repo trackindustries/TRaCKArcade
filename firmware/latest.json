@@ -1,5 +1,5 @@
 {
-  "version": 18,
-  "brain":   "https://raw.githubusercontent.com/trackindustries/OceanBattle/main/firmware/brain.bin",
-  "console": "https://raw.githubusercontent.com/trackindustries/OceanBattle/main/firmware/console.bin"
+  "version": 30,
+  "brain":   "https://raw.githubusercontent.com/trackindustries/TRaCKArcade/main/firmware/brain.bin",
+  "console": "https://raw.githubusercontent.com/trackindustries/TRaCKArcade/main/firmware/console.bin"
 }
