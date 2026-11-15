@@ -1,5 +1,5 @@
 {
-  "version": 400,
+  "version": 401,
   "brain":   "https://raw.githubusercontent.com/trackindustries/TRaCKArcade/main/firmware/brain.bin",
   "console": "https://raw.githubusercontent.com/trackindustries/TRaCKArcade/main/firmware/console.bin"
 }
